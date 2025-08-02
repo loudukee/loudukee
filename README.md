@@ -1,12 +1,11 @@
-# Hi, I'm Louise Dufrasne Keegan 🫶🏻
+# Hi, I'm Louise 🫶🏻
 
 [![Website](https://img.shields.io/badge/Website-loudukee.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://loudukee.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--2461--3948-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2461-3948)
 
 ## 🤖 Current Projects
 
-- Master's research on Russian FIMI in Francophone Europe  
-- Working on the DE-CONSPIRATOR project  
+- Master's research on Russian FIMI in Francophone Europe
 - Exploring digital research tools for political analysis  
 
 ## 🛠️ Technologies & Tools
