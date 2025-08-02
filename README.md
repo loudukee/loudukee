@@ -28,12 +28,6 @@
   </a>
 </div>
 
-## ✨ Contribution Visualisation
-
-<div align="center">
-  <img width="800" src="./profile-3d-contrib/profile-green.svg" />
-</div>
-
 ## 📫 How to Reach Me
 
 - Academic: [ORCID](https://orcid.org/0009-0009-2461-3948)  
