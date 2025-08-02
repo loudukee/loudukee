@@ -1,31 +1,35 @@
-# Hello, I'm Louise 🫶🏻
+# Hi, I'm Louise Dufrasne Keegan 🫶🏻
 
-[![Website](https://img.shields.io/badge/Website-loudukee.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://github.com/loudukee)
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0009-2461-3948-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0009-2461-3948)
+[![Website](https://img.shields.io/badge/Website-loudukee.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://loudukee.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--2461--3948-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2461-3948)
 
 ## 🤖 Current Projects
 
-- learning python and SQL
+- Master's research on Russian FIMI in Francophone Europe  
+- Working on the DE-CONSPIRATOR project  
+- Exploring digital research tools for political analysis  
 
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Tools-Gephi-000000?style=flat-square&logo=gephi&logoColor=white)
 ![](https://img.shields.io/badge/Research-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)
 
 ## 📊 GitHub Insights
 
 <div align="center">
-  <a href="https://github.com/dj-urg">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dj-urg&theme=default&hide_border=true&background=FFFFFF" />
+  <a href="https://github.com/loudukee">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=loudukee&theme=default&hide_border=true&background=FFFFFF" />
   </a>
-  <a href="https://github.com/dj-urg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF" />
+  <a href="https://github.com/loudukee">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loudukee&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF" />
   </a>
 </div>
 
-## ✨ Contribution Visualization
+## ✨ Contribution Visualisation
 
 <div align="center">
   <img width="800" src="./profile-3d-contrib/profile-green.svg" />
@@ -33,15 +37,10 @@
 
 ## 📫 How to Reach Me
 
-- Academic: [ORCID](https://orcid.org/0009-0009-2461-3948)
-- Web: [loudukee.github.io](https://loudukee.github.io)
-- Email: ldufrasne@live.com
+- Academic: [ORCID](https://orcid.org/0009-0009-2461-3948)  
+- Web: [loudukee.github.io](https://loudukee.github.io)  
+- Email: ldufrasne@live.com  
 
-## 🌱 I'm currently learning
-
-- Advanced data visualization techniques
-- Digital research methodologies
-- YouTube API implementation
 
 ---
 
