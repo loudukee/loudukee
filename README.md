@@ -1,7 +1,7 @@
 # Hello, I'm Louise 🫶🏻
 
 [![Website](https://img.shields.io/badge/Website-loudukee.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://github.com/loudukee)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1771-6673)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0009-2461-3948)
 
 ## About Me
 
