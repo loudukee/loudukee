@@ -1,15 +1,11 @@
 # Hello, I'm Louise 🫶🏻
 
 [![Website](https://img.shields.io/badge/Website-loudukee.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://github.com/loudukee)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0009-2461-3948)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0009-2461-3948-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0009-2461-3948)
 
-## About Me
+## 🤖 Current Projects
 
-I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visualization and digital media analysis.
-
-## 🔭 Current Projects
-
-- **data-mirroring**: Facilitating user reflection on social media usage through data conversion and visualization
+- learning python and SQL
 
 ## 🛠️ Technologies & Tools
 
@@ -37,9 +33,9 @@ I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visua
 
 ## 📫 How to Reach Me
 
-- Academic: [ORCID](https://orcid.org/0000-0003-1771-6673)
-- Web: [dj-urg.github.io](https://dj-urg.github.io)
-- Email: daniel.jurg@vub.be
+- Academic: [ORCID](https://orcid.org/0009-0009-2461-3948)
+- Web: [loudukee.github.io](https://loudukee.github.io)
+- Email: ldufrasne@live.com
 
 ## 🌱 I'm currently learning
 
